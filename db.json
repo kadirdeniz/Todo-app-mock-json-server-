@@ -2,19 +2,19 @@
     "todos":[
         {
             "id":"1",
-            "todo":"Buy some milk"
+            "text":"Buy some milk"
         },
         {
             "id":"2",
-            "todo":"Buy some egg"
+            "text":"Buy some egg"
         },
         {
             "id":"3",
-            "todo":"Buy some chicken"
+            "text":"Buy some chicken"
         },
         {
             "id":"5",
-            "todo":"Buy some butter"
+            "text":"Buy some butter"
         }        
     ]
 }
